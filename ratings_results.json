@@ -1,0 +1,456 @@
+[
+    {
+        "timestamp": "2025-04-23 17:47:17",
+        "ratings": {
+            "20": {
+                "text": "If negotiations extend past the twenty‑second of May, our fiscal report might miss the board meeting and trigger budget cuts.",
+                "audio_ratings": {
+                    "audio1": {
+                        "display_position": 1,
+                        "actual_model": 3,
+                        "model_name": "ElevenLabs TTS",
+                        "rating": 2
+                    },
+                    "audio3": {
+                        "display_position": 2,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 4
+                    }
+                }
+            },
+            "82": {
+                "text": "After a decade in Boston, Meera’s Telugu accent mellowed, yet certain retroflex consonants still surprise American colleagues during presentations.",
+                "audio_ratings": {}
+            },
+            "13": {
+                "text": "Usne pichle hafte interview diya, aur HR ne bola 'We will revert Monday', magar abhi tak silence hai.",
+                "audio_ratings": {}
+            },
+            "40": {
+                "text": "Investors were relieved when quarterly revenue reached $4.27 billion, beating forecasts by a solid margin of 0.35%.",
+                "audio_ratings": {}
+            },
+            "9": {
+                "text": "Budget spreadsheet बनाते समय he switched tabs and murmured, 'यार Wi‑Fi क्यों इतना slow है today?'",
+                "audio_ratings": {}
+            },
+            "33": {
+                "text": "When their project ranked 7th among fifty entries, the students celebrated anyway, citing it as their 1st international recognition.",
+                "audio_ratings": {}
+            },
+            "86": {
+                "text": "कल शाम पुस्तक मेले में मैंने एक दुर्लभ कविता संग्रह खरीदा और लेखक से हस्ताक्षर भी करवाए।",
+                "audio_ratings": {}
+            },
+            "92": {
+                "text": "The server went offline at midnight. तकनीकी टीम ने पाँच मिनट में बैकअप सर्वर सक्रिय कर दिया।",
+                "audio_ratings": {
+                    "audio2": {
+                        "display_position": 2,
+                        "actual_model": 2,
+                        "model_name": "Google TTS",
+                        "rating": 2
+                    },
+                    "audio1": {
+                        "display_position": 1,
+                        "actual_model": 3,
+                        "model_name": "ElevenLabs TTS",
+                        "rating": 4
+                    },
+                    "audio3": {
+                        "display_position": 3,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 2
+                    },
+                    "audio4": {
+                        "display_position": 4,
+                        "actual_model": 4,
+                        "model_name": "Azure TTS",
+                        "rating": 1
+                    }
+                }
+            },
+            "93": {
+                "text": "I will join the call at ten sharp. कृपया तब तक विश्लेषण रिपोर्ट तैयार रखो।",
+                "audio_ratings": {}
+            },
+            "29": {
+                "text": "During our first meeting, she asked surprisingly insightful questions about data ethics that senior managers usually overlook.",
+                "audio_ratings": {}
+            }
+        }
+    },
+    {
+        "timestamp": "2025-04-23 17:48:39",
+        "ratings": {
+            "26": {
+                "text": "He learned during the second semester that consistent sleep matters more than pulling endless all‑nighters before coding competitions.",
+                "audio_ratings": {}
+            },
+            "62": {
+                "text": "He swiped his card and saw a charge of $23.45 for coffee because he accidentally bought three premium blends.",
+                "audio_ratings": {}
+            },
+            "28": {
+                "text": "This is the twentieth time the startup has pivoted its business model, yet investors remain strangely optimistic about profitability.",
+                "audio_ratings": {}
+            },
+            "80": {
+                "text": "An average blue whale weighs roughly 150,000 kilograms and measures nearly 30 meters from head to tail.",
+                "audio_ratings": {}
+            },
+            "23": {
+                "text": "She arrived on 12-12-2024, exactly one year after her previous visit on 12-12-2023, creating an accidental anniversary tradition.",
+                "audio_ratings": {}
+            },
+            "22": {
+                "text": "Our team’s quarterly review slides are due by 04/30/2025, otherwise finance will block expense reimbursements for conference travel.",
+                "audio_ratings": {}
+            },
+            "32": {
+                "text": "The 3rd draft of the screenplay felt tighter, but the producer requested a 4th to deepen the antagonist’s backstory.",
+                "audio_ratings": {}
+            },
+            "66": {
+                "text": "For technical support, call our toll‑free number 1‑800‑555‑0423, and an agent will respond within two minutes.",
+                "audio_ratings": {}
+            },
+            "65": {
+                "text": "A pop‑up notified that the gaming skin costs ¥1,200, which converts to roughly ₹6,800 at current rates.",
+                "audio_ratings": {
+                    "audio2": {
+                        "display_position": 3,
+                        "actual_model": 2,
+                        "model_name": "Google TTS",
+                        "rating": 2
+                    }
+                }
+            },
+            "70": {
+                "text": "If the courier fails to arrive, contact warehouse dispatch at 044‑4555‑8888 before 18:00 to rearrange delivery.",
+                "audio_ratings": {}
+            }
+        }
+    },
+    {
+        "timestamp": "2025-04-23 17:50:48",
+        "ratings": {
+            "80": {
+                "text": "An average blue whale weighs roughly 150,000 kilograms and measures nearly 30 meters from head to tail.",
+                "audio_ratings": {
+                    "audio3": {
+                        "display_position": 1,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 4
+                    },
+                    "audio1": {
+                        "display_position": 2,
+                        "actual_model": 3,
+                        "model_name": "ElevenLabs TTS",
+                        "rating": 2
+                    }
+                }
+            },
+            "78": {
+                "text": "Engineers drilled 4.6 meters into the bedrock before installing the 12‑meter‑tall wind turbine foundation.",
+                "audio_ratings": {}
+            },
+            "60": {
+                "text": "He budgeted two thousand five hundred pounds for the entire road trip across rural Scotland, fuel and hostels included.",
+                "audio_ratings": {}
+            },
+            "62": {
+                "text": "He swiped his card and saw a charge of $23.45 for coffee because he accidentally bought three premium blends.",
+                "audio_ratings": {}
+            },
+            "43": {
+                "text": "His philanthropic foundation pledged two hundred crore rupees to rebuild schools destroyed during the devastating coastal cyclone.",
+                "audio_ratings": {}
+            },
+            "51": {
+                "text": "The flight departs at 23:45, but boarding starts at 22:50, so reach terminal three by 10:15 PM latest.",
+                "audio_ratings": {}
+            },
+            "25": {
+                "text": "When the train departed at 09-04-2025 14:35, half the passengers were still in line for snacks on platform six.",
+                "audio_ratings": {}
+            },
+            "37": {
+                "text": "After revising the budget, marketing reduced their projected spend from ₹12.45 million to ₹9.80 million this quarter.",
+                "audio_ratings": {}
+            },
+            "71": {
+                "text": "The vaccination drive achieved 92.3% coverage in urban wards, but only 57.8% in rural regions due to misinformation.",
+                "audio_ratings": {}
+            },
+            "42": {
+                "text": "The global gaming industry surpassed $221 billion last year, outpacing Hollywood’s entire box office revenue by several folds.",
+                "audio_ratings": {}
+            }
+        }
+    },
+    {
+        "timestamp": "2025-04-23 18:01:16",
+        "ratings": {
+            "22": {
+                "text": "Our team’s quarterly review slides are due by 04/30/2025, otherwise finance will block expense reimbursements for conference travel.",
+                "audio_ratings": {
+                    "audio2": {
+                        "display_position": 3,
+                        "actual_model": 2,
+                        "model_name": "Google TTS",
+                        "rating": 5
+                    }
+                }
+            },
+            "23": {
+                "text": "She arrived on 12-12-2024, exactly one year after her previous visit on 12-12-2023, creating an accidental anniversary tradition.",
+                "audio_ratings": {}
+            },
+            "95": {
+                "text": "Our supervisor approved the new timeline. अब परियोजना अगले सोमवार से विधिवत शुरू होगी।",
+                "audio_ratings": {
+                    "audio4": {
+                        "display_position": 3,
+                        "actual_model": 4,
+                        "model_name": "Azure TTS",
+                        "rating": 4
+                    }
+                }
+            },
+            "8": {
+                "text": "अगर तुम evening gym miss करोगे then remember we have weekend trek to Sahyadris, so fitness maintain करना होगा.",
+                "audio_ratings": {}
+            },
+            "77": {
+                "text": "Her luggage weighed 23 kilograms but measured only 55 centimeters tall, fitting comfortably in the overhead bin.",
+                "audio_ratings": {
+                    "audio3": {
+                        "display_position": 3,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 4
+                    }
+                }
+            },
+            "27": {
+                "text": "After the fifth failed experiment, the research team reevaluated their hypotheses and discovered a calibration error in the microscope.",
+                "audio_ratings": {
+                    "audio3": {
+                        "display_position": 4,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 2
+                    }
+                }
+            },
+            "28": {
+                "text": "This is the twentieth time the startup has pivoted its business model, yet investors remain strangely optimistic about profitability.",
+                "audio_ratings": {
+                    "audio2": {
+                        "display_position": 4,
+                        "actual_model": 2,
+                        "model_name": "Google TTS",
+                        "rating": 2
+                    }
+                }
+            },
+            "19": {
+                "text": "Her grandmother still remembers the eleventh of July nineteen forty‑seven when monsoon floods swept through their ancestral village near Patna.",
+                "audio_ratings": {}
+            },
+            "35": {
+                "text": "During the 21st century’s 1st decade, smartphones evolved faster than during the entire 20th, reshaping communication paradigms worldwide.",
+                "audio_ratings": {}
+            },
+            "71": {
+                "text": "The vaccination drive achieved 92.3% coverage in urban wards, but only 57.8% in rural regions due to misinformation.",
+                "audio_ratings": {}
+            }
+        }
+    },
+    {
+        "timestamp": "2025-04-23 18:01:48",
+        "ratings": {
+            "60": {
+                "text": "He budgeted two thousand five hundred pounds for the entire road trip across rural Scotland, fuel and hostels included.",
+                "audio_ratings": {
+                    "audio2": {
+                        "display_position": 2,
+                        "actual_model": 2,
+                        "model_name": "Google TTS",
+                        "rating": 2
+                    },
+                    "audio4": {
+                        "display_position": 3,
+                        "actual_model": 4,
+                        "model_name": "Azure TTS",
+                        "rating": 2
+                    }
+                }
+            },
+            "40": {
+                "text": "Investors were relieved when quarterly revenue reached $4.27 billion, beating forecasts by a solid margin of 0.35%.",
+                "audio_ratings": {}
+            },
+            "88": {
+                "text": "उसने बताया कि अगले सप्ताह विश्वविद्यालय के सम्मेलन कक्ष में नई अनुसंधान परियोजना पर चर्चा होगी।",
+                "audio_ratings": {}
+            },
+            "71": {
+                "text": "The vaccination drive achieved 92.3% coverage in urban wards, but only 57.8% in rural regions due to misinformation.",
+                "audio_ratings": {}
+            },
+            "53": {
+                "text": "If the lab equipment isn’t calibrated by 14:20, the experiment scheduled for 3:05 PM will be automatically cancelled.",
+                "audio_ratings": {}
+            },
+            "52": {
+                "text": "Tomorrow’s stand‑up meeting moved from 9:30 AM to 08:00 because the CEO has a 13:00 investor call.",
+                "audio_ratings": {}
+            },
+            "31": {
+                "text": "He came 1st in the marathon despite spraining his ankle during the 27th kilometre of the hilly route.",
+                "audio_ratings": {}
+            },
+            "28": {
+                "text": "This is the twentieth time the startup has pivoted its business model, yet investors remain strangely optimistic about profitability.",
+                "audio_ratings": {
+                    "audio4": {
+                        "display_position": 3,
+                        "actual_model": 4,
+                        "model_name": "Azure TTS",
+                        "rating": 4
+                    }
+                }
+            },
+            "81": {
+                "text": "Though Rahul was born in London, his crisp Marathi accent surfaces whenever he negotiates vegetable prices in Dadar market.",
+                "audio_ratings": {}
+            },
+            "46": {
+                "text": "Only one-half of the committee agreed to the proposal, while the remaining members requested a more detailed cost analysis.",
+                "audio_ratings": {}
+            }
+        }
+    },
+    {
+        "timestamp": "2025-04-23 18:03:03",
+        "ratings": {
+            "78": {
+                "text": "Engineers drilled 4.6 meters into the bedrock before installing the 12‑meter‑tall wind turbine foundation.",
+                "audio_ratings": {
+                    "audio4": {
+                        "display_position": 2,
+                        "actual_model": 4,
+                        "model_name": "Azure TTS",
+                        "rating": 4
+                    },
+                    "audio3": {
+                        "display_position": 3,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 4
+                    }
+                }
+            },
+            "53": {
+                "text": "If the lab equipment isn’t calibrated by 14:20, the experiment scheduled for 3:05 PM will be automatically cancelled.",
+                "audio_ratings": {}
+            },
+            "20": {
+                "text": "If negotiations extend past the twenty‑second of May, our fiscal report might miss the board meeting and trigger budget cuts.",
+                "audio_ratings": {}
+            },
+            "62": {
+                "text": "He swiped his card and saw a charge of $23.45 for coffee because he accidentally bought three premium blends.",
+                "audio_ratings": {}
+            },
+            "76": {
+                "text": "The recipe calls for 250 grams of flour, 180 milliliters of milk, and a pinch of saffron.",
+                "audio_ratings": {}
+            },
+            "30": {
+                "text": "The eleventh chapter in the novel shifts perspective, revealing hidden motives of characters introduced much earlier in the storyline.",
+                "audio_ratings": {}
+            },
+            "13": {
+                "text": "Usne pichle hafte interview diya, aur HR ne bola 'We will revert Monday', magar abhi tak silence hai.",
+                "audio_ratings": {}
+            },
+            "27": {
+                "text": "After the fifth failed experiment, the research team reevaluated their hypotheses and discovered a calibration error in the microscope.",
+                "audio_ratings": {}
+            },
+            "32": {
+                "text": "The 3rd draft of the screenplay felt tighter, but the producer requested a 4th to deepen the antagonist’s backstory.",
+                "audio_ratings": {}
+            },
+            "79": {
+                "text": "The marathon route spans 42.195 kilometers, rising 320 meters in elevation across picturesque coastal roads.",
+                "audio_ratings": {}
+            }
+        }
+    },
+    {
+        "timestamp": "2025-04-24 12:44:33",
+        "ratings": {
+            "75": {
+                "text": "The new solar panels increased energy output by 33.4%, reducing the monthly bill by nearly 28%.",
+                "audio_ratings": {
+                    "audio2": {
+                        "display_position": 3,
+                        "actual_model": 2,
+                        "model_name": "Google TTS",
+                        "rating": 4
+                    },
+                    "audio3": {
+                        "display_position": 4,
+                        "actual_model": 1,
+                        "model_name": "AWS Polly",
+                        "rating": 1
+                    }
+                }
+            },
+            "26": {
+                "text": "He learned during the second semester that consistent sleep matters more than pulling endless all‑nighters before coding competitions.",
+                "audio_ratings": {}
+            },
+            "90": {
+                "text": "यदि तुम समय पर पहुँचोगे तो हम साझा रसोई में स्वादिष्ट आलू‑पराठे बनाकर गर्म चाय के साथ खाएंगे।",
+                "audio_ratings": {}
+            },
+            "52": {
+                "text": "Tomorrow’s stand‑up meeting moved from 9:30 AM to 08:00 because the CEO has a 13:00 investor call.",
+                "audio_ratings": {}
+            },
+            "74": {
+                "text": "Survey results showed that 71.6% of employees preferred hybrid work, while 18.2% wanted fully remote arrangements.",
+                "audio_ratings": {}
+            },
+            "55": {
+                "text": "The 18:10 express reached Kochi by 04:25, allowing passengers to catch sunrise boats departing at 06:00 exactly.",
+                "audio_ratings": {}
+            },
+            "35": {
+                "text": "During the 21st century’s 1st decade, smartphones evolved faster than during the entire 20th, reshaping communication paradigms worldwide.",
+                "audio_ratings": {}
+            },
+            "46": {
+                "text": "Only one-half of the committee agreed to the proposal, while the remaining members requested a more detailed cost analysis.",
+                "audio_ratings": {}
+            },
+            "39": {
+                "text": "The drone flew precisely 5.33 kilometers before battery voltage dipped below the safe threshold of 3.45 volts per cell.",
+                "audio_ratings": {}
+            },
+            "36": {
+                "text": "The sensor recorded an average temperature of 37.68°C inside the server rack, triggering the emergency cooling protocol.",
+                "audio_ratings": {}
+            }
+        }
+    }
+]
